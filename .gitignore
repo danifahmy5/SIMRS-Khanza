@@ -1,0 +1,7 @@
+# File biner besar lokal (> 50 MB / > 100 MB, melebihi batas GitHub)
+lib/libjfxwebkit.so
+lib/rt.jar
+
+# File konfigurasi/secret lokal
+api-obapay/.env
+.env
